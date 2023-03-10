@@ -1,0 +1,25 @@
+{
+  "compilerOptions": {
+    "outDir": "./dist/",
+    "noImplicitAny": false,
+    "downlevelIteration": true,
+    "allowJs": true,
+    "baseUrl": ".",
+    "paths": {
+      "@/*": ["src/*"]
+    },
+    "module": "commonjs",
+    "target": "es5",
+    "lib": [
+      "dom",
+      "es2017",
+      "es2018.promise"
+    ]
+  },
+  "typedocOptions": {
+    "name": "ASeat-Docs",
+    "mode": "file",
+    "includeDeclarations": false,
+    "ignoreCompilerErrors": true
+  }
+}

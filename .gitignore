@@ -1,0 +1,13 @@
+coverage/
+node_modules/
+npm-debug.log
+.DS_Store
+.idea
+yarn-error.log
+.eslintcache
+.rpt2_cache/
+dist
+lib/
+es/
+build/
+.vscode/

@@ -1,0 +1,25 @@
+body{padding: 0; margin: 5px;}
+h1{position: absolute;top: 0;left: 10px; height: 20px;line-height: 20px}
+#aseat{
+  position: relative;
+  margin: 400px auto;
+  width: 1000px;
+  height: 1000px;
+  border: 1px solid #333333;
+  overflow: hidden;
+}
+svg{
+  border: 1px dashed;
+}
+#eagle {
+  position: fixed;
+}
+.left-top-corner{
+  width: 200px;
+  height: 200px;
+  background: red;
+  border: 1px solid #333;
+}
+canvas{
+  border: 1px solid
+}
